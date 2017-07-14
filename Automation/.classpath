@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/selenium-java-2.48.1.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/selenium-java-2.48.1-srcs.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/websocket-api-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/websocket-client-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/websocket-common-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/selenium-java-2.48.1/Selenium-2.48.1_AllJars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/study material/Automation_Tesing/Selenium_Package_with_Related_APIs/log4j-1.2.17.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
