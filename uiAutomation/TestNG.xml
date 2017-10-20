@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression_Tesing">
+<parameter name="browserName" value="Chrome"/>
+<parameter name="url" value="https://jabong.com/"/>
+<test name="TC001_SignUp_Validation">
+<classes>
+<class name="com.testing.automation.homePage.TC001_SignUp_Validation"/>
+</classes>
+</test>
+</suite>

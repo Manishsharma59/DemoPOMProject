@@ -1,0 +1,271 @@
+2017-10-18 13:09:47 INFO  TC001_SignUp_Validation:24 - Starting Test
+2017-10-18 13:09:57 INFO  TC001_SignUp_Validation:28 - Finished Test
+2017-10-18 13:15:19 INFO  TC001_SignUp_Validation:24 - Starting Test
+2017-10-18 13:20:18 INFO  TC001_SignUp_Validation:24 - Starting Test
+2017-10-18 13:20:28 INFO  TC001_SignUp_Validation:28 - Finished Test
+2017-10-18 13:27:33 INFO  TC001_SignUp_Validation:24 - Starting Test
+2017-10-18 13:27:41 INFO  TC001_SignUp_Validation:28 - Finished Test
+2017-10-18 13:39:50 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:46:37 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:47:40 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:48:10 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:54:50 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:55:25 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:57:22 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 13:58:20 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:00:42 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:03:58 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:05:40 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:14:51 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:15:44 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:16:51 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:21:20 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:21:20 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 14:22:34 INFO  TC001_SignUp_Validation:25 - Starting Test
+2017-10-18 14:22:35 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 14:26:13 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:31:16 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:34:49 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:35:00 INFO  TC001_SignUp_Validation:33 - Finished Test
+2017-10-18 14:38:06 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:38:16 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 14:38:53 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:39:48 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:39:59 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 14:41:38 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 14:41:46 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 15:57:42 INFO  TC001_SignUp_Validation:26 - Starting Test
+2017-10-18 15:57:52 INFO  TC001_SignUp_Validation:31 - Finished Test
+2017-10-18 16:14:21 INFO  TC001_SignUp_Validation:28 - Starting Test
+2017-10-18 16:14:31 INFO  TC001_SignUp_Validation:33 - Finished Test
+2017-10-18 16:23:06 INFO  TC001_SignUp_Validation:29 - Starting Test
+2017-10-18 16:23:36 INFO  TC001_SignUp_Validation:34 - Finished Test
+2017-10-19 09:01:38 INFO  TC001_SignUp_Validation:29 - Starting Test
+2017-10-19 09:01:40 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 09:01:40 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 09:01:41 INFO  SignUpPage:56 - Email - er.manishsharma95@rediffmail.com
+2017-10-19 09:01:42 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (34843abdc438312efe0754b2bc901ba2)] -> xpath: //*[@id='pwd']]
+2017-10-19 09:01:42 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 09:01:43 INFO  TC001_SignUp_Validation:34 - Finished Test
+2017-10-19 13:28:40 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:28:41 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:28:42 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:28:42 INFO  SignUpPage:56 - Email - manishSham59
+2017-10-19 13:28:43 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (0071c8b495a4c5edbd687ee61a8c992b)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:28:44 INFO  SignUpPage:64 - Mobile - 8.27409595E8
+2017-10-19 13:40:30 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:40:32 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:40:33 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:40:33 INFO  SignUpPage:56 - Email - manishSham59
+2017-10-19 13:40:34 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (da242e50379dc77be633b0d8548d6993)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:40:35 INFO  SignUpPage:64 - Mobile - 8.27409595E8
+2017-10-19 13:42:04 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:42:07 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:42:08 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:42:08 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:42:09 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (654f21ca9a216759d5f4071e62d8b414)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:42:10 INFO  SignUpPage:64 - Mobile - 8.27409595E8
+2017-10-19 13:42:30 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:42:31 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:42:31 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:42:31 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:43:17 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:43:20 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:43:21 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:43:21 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:43:22 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (9b1b6797284ebe830c4f7cb51423f8e7)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:43:22 INFO  SignUpPage:64 - Mobile - 8.527409595E9
+2017-10-19 13:43:43 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:43:44 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:43:44 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:43:44 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:44:38 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:44:40 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:44:42 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:44:43 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:44:43 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (fdf9f98fdab5db12369f79505ea7f1ca)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:44:44 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 13:44:45 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:44:45 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:44:46 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:44:46 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:48:52 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:48:56 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:48:57 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:48:57 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:48:58 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (6b2377299f66cd6f413d60f02e597193)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:48:59 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 13:49:19 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:49:19 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:49:20 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:49:20 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:49:59 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:50:02 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:50:03 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:50:03 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:50:04 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (ad8a3d346fb5d0ae43380f4c24ad4f31)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:50:05 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 13:50:05 INFO  TC001_SignUp_Validation:42 - Finished Test
+2017-10-19 13:50:05 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:50:05 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:50:06 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:50:06 INFO  TC001_SignUp_Validation:36 - Starting Test
+2017-10-19 13:54:32 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 13:54:35 INFO  SignUpPage:48 - FirstName - Manish
+2017-10-19 13:54:35 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:54:36 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:54:37 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (bbe758ac46224ea9519689da529e8733)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:54:37 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 13:54:38 INFO  TC001_SignUp_Validation:46 - Finished Test
+2017-10-19 13:54:38 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 13:59:37 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 13:59:41 INFO  SignUpPage:48 - FirstName - Manish2
+2017-10-19 13:59:42 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 13:59:43 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 13:59:44 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (e6ffa496082a04e93347e31039a4bce0)] -> xpath: //*[@id='pwd']]
+2017-10-19 13:59:44 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 13:59:45 INFO  TC001_SignUp_Validation:46 - Finished Test
+2017-10-19 13:59:45 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:06:07 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:06:11 INFO  SignUpPage:48 - FirstName - Manish1
+2017-10-19 14:06:11 INFO  SignUpPage:52 - LastName - Sharma
+2017-10-19 14:06:12 INFO  SignUpPage:56 - Email - manishSham59@gmail.com
+2017-10-19 14:06:13 INFO  SignUpPage:60 - Password - [[ChromeDriver: chrome on WIN8 (705618346042aec2b99e8762f5bc5f94)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:06:13 INFO  SignUpPage:64 - Mobile - 8527409595
+2017-10-19 14:06:14 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:06:14 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:06:14 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:06:14 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:09:34 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:09:36 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:09:37 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:09:41 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:09:42 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (5e44b9cd820a194e8f20aa1fc47f69d4)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:09:43 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:09:44 INFO  TC001_SignUp_Validation:47 - Finished Test
+2017-10-19 14:09:44 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:09:44 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:09:44 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:09:45 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:11:11 INFO  TC001_SignUp_Validation:40 - Starting Test
+2017-10-19 14:11:22 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:11:23 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:11:23 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:11:25 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (9a1a1ed4493fc025669b5709d23833df)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:11:25 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:11:34 INFO  TC001_SignUp_Validation:47 - Finished Test
+2017-10-19 14:15:52 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:15:56 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:15:56 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:15:57 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:15:58 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (17160cb55ca188139b3fad361851c0be)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:15:58 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:16:00 INFO  TC001_SignUp_Validation:49 - Finished Test
+2017-10-19 14:16:00 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:16:00 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:16:00 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:16:00 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:21:27 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:21:30 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:21:31 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:21:31 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:21:32 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (fc3b45416ba525f456f187afb5a8ff46)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:21:33 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:21:44 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:21:45 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:21:45 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:21:45 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:22:41 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:22:43 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:22:44 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:22:45 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:22:46 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (4448873361228b5d517e553c0d67c92e)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:22:46 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:24:24 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:24:28 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:24:28 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:24:29 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:24:30 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (703d624c82b761820efc1fe9e14a471e)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:24:30 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:24:31 INFO  TC001_SignUp_Validation:50 - Finished Test
+2017-10-19 14:24:31 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:24:31 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:24:31 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:24:32 INFO  TC001_SignUp_Validation:42 - Starting Test
+2017-10-19 14:29:31 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:29:34 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:29:35 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:29:35 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:29:37 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (1ea1ace9072377d2704f97eca7c30ea7)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:29:37 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:29:38 INFO  TC001_SignUp_Validation:51 - Finished Test
+2017-10-19 14:29:38 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:29:39 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:29:39 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:29:39 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:34:09 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:34:09 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:34:09 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:34:09 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:34:09 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:35:23 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:35:52 INFO  HomePage:52 - Navigate to signup page
+2017-10-19 14:37:15 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:15 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:37:15 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:15 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:37:15 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:15 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:37:15 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:15 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:37:15 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:15 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:37:52 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:37:55 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:38:47 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:38:58 INFO  HomePage:50 - Navigate to signup page
+2017-10-19 14:40:18 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:40:19 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:40:22 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:40:22 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:40:23 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:40:24 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (88bf5ad282c21c375c49712c99464a0f)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:40:25 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:40:26 INFO  TC001_SignUp_Validation:51 - Finished Test
+2017-10-19 14:40:27 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:40:27 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:40:27 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:40:27 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:40:27 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:40:27 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:40:27 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:40:27 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:41:17 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:41:37 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:41:42 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:41:43 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:41:44 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:41:45 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (914a839c6be1bc32d14d61e2946586a5)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:41:46 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:42:14 INFO  TC001_SignUp_Validation:51 - Finished Test
+2017-10-19 14:43:39 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:43:39 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:43:43 INFO  SignUpPage:51 - FirstName - Manish1
+2017-10-19 14:43:44 INFO  SignUpPage:55 - LastName - Sharma
+2017-10-19 14:43:45 INFO  SignUpPage:59 - Email - manishSham59@gmail.com
+2017-10-19 14:43:46 INFO  SignUpPage:63 - Password - [[ChromeDriver: chrome on WIN8 (3ab54fd939f3e9a5ea428f666bc0113f)] -> xpath: //*[@id='pwd']]
+2017-10-19 14:43:47 INFO  SignUpPage:67 - Mobile - 8527409595
+2017-10-19 14:43:47 INFO  TC001_SignUp_Validation:51 - Finished Test
+2017-10-19 14:43:47 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:43:47 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:43:47 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:43:47 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:43:47 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:43:47 INFO  HomePage:49 - Navigate to signup page
+2017-10-19 14:43:48 INFO  TC001_SignUp_Validation:43 - Starting Test
+2017-10-19 14:43:48 INFO  HomePage:49 - Navigate to signup page

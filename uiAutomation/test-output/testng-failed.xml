@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression_Tesing]">
+  <parameter name="browserName" value="Chrome"/>
+  <parameter name="url" value="https://jabong.com/"/>
+  <test name="TC001_SignUp_Validation(failed)">
+    <classes>
+      <class name="com.testing.automation.homePage.TC001_SignUp_Validation">
+        <methods>
+          <include name="signUp_Validation" invocation-numbers="1 2 3 4"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testing.automation.homePage.TC001_SignUp_Validation -->
+    </classes>
+  </test> <!-- TC001_SignUp_Validation(failed) -->
+</suite> <!-- Failed suite [Regression_Tesing] -->
