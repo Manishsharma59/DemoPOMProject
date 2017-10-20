@@ -2,12 +2,10 @@ package com.testing.automation.homePage;
 
 
 import org.apache.log4j.Logger;
-import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
@@ -29,7 +27,7 @@ public class TC001_SignUp_Validation extends TestBase{
 		return testData;
 	}
 	
-	@BeforeTest
+	@BeforeClass
 	@Parameters({"browserName","url"})
 	public void setUp(String browserName, String url){
 		setDriver(browserName, url);
@@ -40,19 +38,27 @@ public class TC001_SignUp_Validation extends TestBase{
 		if(runMode.equalsIgnoreCase("n")){
 			throw new SkipException("UserMarked this record as no run");
 		}
-		log.info("Starting Test");
+		log("Starting Test");
 		homePage = new HomePage(driver);
-		signUpPage = homePage.navigateToSignUpPage();
+		homePage.navigateToSignUpPage(); 
+		signUpPage = new SignUpPage(driver);
 		signUpPage.signUp(firstName, lastName, email, password, mobile);
-		//signUpPage.navigateToHomePage();
-		
+		signUpPage.navigateToHomePage();
+		screenShot("signUp_Validation");
 		//signUpPage.signUp("Manish", "Sharma", "er.manishsharma95@rediffmail.com", "Wizardry@123", "8527409595");
 		//Assert.assertTrue(signUpPage.errorMsgText().toString().contains("A record matching 'er.manishsharma95@rediffmail.com' was found"));
-		log.info("Finished Test");
+		log("Finished Test");
 	}
 	
-	@AfterTest
+	@AfterClass
 	public void tearDown() {
 		driver.quit();
+	}
+	
+public void log(String logMessage){
+		
+		log.info(logMessage);
+		Reporter.log(logMessage);
+		
 	}
 }

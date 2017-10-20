@@ -5,11 +5,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
 
-public class SignUpPage extends HomePage{
+import com.testing.automation.testBase.TestBase;
+
+public class SignUpPage extends TestBase{
 	
+	WebDriver driver;
 	public static final Logger log = Logger.getLogger(SignUpPage.class.getName());
-	private WebDriver driver;
 
 	@FindBy(xpath = "//*[@id='firstname']")
 	WebElement firstNameTxtBox;
@@ -36,8 +39,9 @@ public class SignUpPage extends HomePage{
 	WebElement closeSignUp;
 	
 	public SignUpPage(WebDriver driver) {
-		super(driver);
+		this.driver=driver;
 		PageFactory.initElements(driver, this);
+		// TODO Auto-generated constructor stub
 	}
 	
 	public String signUpPageTitle(){
@@ -47,33 +51,36 @@ public class SignUpPage extends HomePage{
 	
 	public void signUp(String firstName,String lastName, String email, String password, String mobile){
 		
-		signUpBtn.click();
-		log.info("FirstName - " + firstName.toString());
+		waitForElement(60, firstNameTxtBox);
+		log("FirstName - " + firstNameTxtBox.toString());
 		firstNameTxtBox.clear();
 		firstNameTxtBox.sendKeys(firstName);
 		
-		log.info("LastName - " + lastName.toString());
+		waitForElement(60, lastNameTxtBox);
+		log("LastName - " + lastNameTxtBox.toString());
 		lastNameTxtBox.clear();
 		lastNameTxtBox.sendKeys(lastName);
 		
-		log.info("Email - " + email.toString());
+		waitForElement(60, emailTxtBox);
+		log("Email - " + emailTxtBox.toString());
 		emailTxtBox.clear();
 		emailTxtBox.sendKeys(email);
 		
-		log.info("Password - " + pwdTxtBox.toString());
+		waitForElement(60, pwdTxtBox);
+		log("Password - " + pwdTxtBox.toString());
 		pwdTxtBox.clear();
 		pwdTxtBox.sendKeys(password);
 		
-		log.info("Mobile - " + mobile.toString());
+		waitForElement(60, mobileTxtBox);
+		log("Mobile - " + mobileTxtBox.toString());
 		mobileTxtBox.clear();
 		mobileTxtBox.sendKeys(mobile);
 		
 		//signUpSubmitBtn.click();
 	}
 	
-	public HomePage navigateToHomePage(){
+	public void navigateToHomePage(){
 		closeSignUp.click();
-		return new HomePage(driver);
 	}
 
 	public String errorMsgText(){
@@ -81,5 +88,10 @@ public class SignUpPage extends HomePage{
 		return ErrorMsg.getText();
 	}
 
-
+	public void log(String logMessage){
+		
+		log.info(logMessage);
+		Reporter.log(logMessage);
+		
+	}
 }

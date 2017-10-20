@@ -4,6 +4,10 @@
 <suite name="Regression_Tesing">
 <parameter name="browserName" value="Chrome"/>
 <parameter name="url" value="https://jabong.com/"/>
+<listeners>
+<listener class-name="com.testing.automation.customListner.Listner"></listener>
+</listeners>
+
 <test name="TC001_SignUp_Validation">
 <classes>
 <class name="com.testing.automation.homePage.TC001_SignUp_Validation"/>
